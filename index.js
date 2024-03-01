@@ -15,6 +15,7 @@ function expandFillerRange(range) {
   return expandedRange.join(', ');
 }
 
+// Allow access from any origin
 app.use(cors());
 
 app.get('/', (req, res) => {
