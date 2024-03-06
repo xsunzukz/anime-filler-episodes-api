@@ -31,6 +31,5 @@ npm install
 ```bash
 node index.js
 ```
-## Deploy:
-[![Deploy to Cloudflare](https://img.shields.io/badge/Deploy%20to-Cloudflare-blue?logo=cloudflare)](https://filler-list.chaiwala-anime.workers.dev/)
+
 
